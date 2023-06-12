@@ -1,5 +1,5 @@
 # USAGE
-# python script.py --prototxt deploy.prototxt.txt --model deploy.caffemodel
+# python real_time_object_detection,py --prototxt deploy.prototxt.txt --model deploy.caffemodel
 
 import argparse
 import time
